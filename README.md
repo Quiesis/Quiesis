@@ -1,6 +1,6 @@
 <!-- Profil Banner'ı (isteğe bağlı görsel ekleyebilirsin) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7fc7ff&height=200&section=header&text=Quiesis&fontSize=48&fontColor=ffffff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8d61ff&height=200&section=header&text=Quiesis&fontSize=48&fontColor=ffffff" alt="banner"/>
 </p>
 
 # 👋 Hi, I’m **Quiesis**  
