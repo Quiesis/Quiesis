@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=474747&height=200&section=header&text=&fontSize=48&fontColor=ffffff" alt="banner"/>
 </p>
 
-# I’m **Quiesis**  
+# I’m **Quies**  
 
 
 ---
