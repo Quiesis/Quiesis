@@ -9,9 +9,9 @@
 ---
 
 ## 🧩 About Me
-- 🎓 Junior developer | Game & Web Enthusiast  
+- 🎓 Junior developer | Game
 - 🌱 Currently learning: **Unreal Engine, C#, Python**
-- ✨ Interests: Minimal design, gamedev, creative coding
+- ✨ Interests: Minimal design, gamedev, Graffiti
 
 ---
 
